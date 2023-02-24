@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abu-react/static/css/main.e3961c18.css",
+    "main.js": "/abu-react/static/js/main.7bc38ccb.js",
+    "index.html": "/abu-react/index.html",
+    "main.e3961c18.css.map": "/abu-react/static/css/main.e3961c18.css.map",
+    "main.7bc38ccb.js.map": "/abu-react/static/js/main.7bc38ccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3961c18.css",
+    "static/js/main.7bc38ccb.js"
+  ]
+}
